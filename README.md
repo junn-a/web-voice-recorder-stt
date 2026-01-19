@@ -1,3 +1,11 @@
+![PHP](https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Web%20API-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MediaRecorder](https://img.shields.io/badge/MediaRecorder-API-blue?style=for-the-badge)
+![Speech to Text](https://img.shields.io/badge/Speech--to--Text-AI-8A2BE2?style=for-the-badge)
+![Web Audio](https://img.shields.io/badge/Web%20Audio-Streaming-00C7B7?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+
 # 🎙️ Web Voice Recorder & Speech-to-Text
 
 A **web-based voice recording application** that records audio directly from the browser, **automatically splits recordings every 30 minutes**, stores them on the server, and **converts audio to text (Speech-to-Text)**.
@@ -210,3 +218,4 @@ Developed for **web-based long-duration voice recording & transcription use case
 ---
 
 ⭐ If this project helps you, feel free to give it a **star** on GitHub!
+
