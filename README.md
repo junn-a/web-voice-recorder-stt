@@ -224,8 +224,9 @@ MIT License
 ## 👤 Author
 
 Developed for **web-based long-duration voice recording & transcription use cases**.
-*⭐ If this project helps you, feel free to give it a **star** on GitHub!
+If this project helps you, feel free to give it a **star** on GitHub! ⭐⭐
 ---
+
 
 
 
