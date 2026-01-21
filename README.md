@@ -8,7 +8,7 @@
 
 # 🎙️ Web Voice Recorder & Speech-to-Text
 
-A **web-based voice recording application** that records audio directly from the browser, **automatically splits recordings every 30 minutes**, stores them on the server, and **converts audio to text (Speech-to-Text)**.
+A **web-based voice recording application** that records audio directly from the browser, stores them on the server, and **converts audio to text (Speech-to-Text)**.
 
 This project is designed for **long-duration recording** use cases such as monitoring, logging, interviews, and documentation — **without additional hardware**, using only a modern browser.
 
@@ -17,7 +17,6 @@ This project is designed for **long-duration recording** use cases such as monit
 ## ✨ Key Features
 
 * 🎤 Browser-based audio recording (no plugin, no hardware)
-* ⏱️ Automatic audio split every **30 minutes**
 * 💾 Server-side storage (PHP)
 * ▶️ Playback recorded audio directly from the web UI
 * 📝 Speech-to-Text conversion (Whisper / Google / Vosk – pluggable)
@@ -226,6 +225,7 @@ MIT License
 Developed for **web-based long-duration voice recording & transcription use cases**.
 If this project helps you, feel free to give it a **star** on GitHub! ⭐⭐
 ---
+
 
 
 
